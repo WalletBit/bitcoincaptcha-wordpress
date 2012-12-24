@@ -1,0 +1,10 @@
+.bitcoincaptcha {
+	display: none;
+}
+
+.bitcoincaptcha-unlock {
+	color: blue;
+	cursor: pointer;
+	margin-bottom: 15px;
+	text-decoration: underline;
+}
